@@ -1,4 +1,4 @@
-package main
+package carrot
 
 import "github.com/streadway/amqp"
 
